@@ -1,5 +1,5 @@
 
-##Authors 
+## Authors 
 - [Gaurav Singh](https://github.com/gauravSingh30)
 
 # Motor Activity Classification
